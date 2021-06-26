@@ -9,7 +9,6 @@ C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\bin\Deb
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\bin\Debug\net5.0\WebApplication2.pdb
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\bin\Debug\net5.0\WebApplication2.Views.dll
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\bin\Debug\net5.0\WebApplication2.Views.pdb
-C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.AssemblyReference.cache
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.AssemblyInfoInputs.cache
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.AssemblyInfo.cs
@@ -149,3 +148,8 @@ C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Deb
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
