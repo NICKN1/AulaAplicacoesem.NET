@@ -11,6 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplication2.Models;
 
 namespace CursoAPI
 {
@@ -28,10 +29,9 @@ namespace CursoAPI
         {
 
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "CursoAPI", Version = "v1" });
-            });
+            services.AddDbContext<Context>();
+            services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo { Title = "CursoAPI", Version = "v1" }); });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

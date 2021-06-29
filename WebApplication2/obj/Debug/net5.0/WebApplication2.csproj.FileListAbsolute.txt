@@ -153,3 +153,4 @@ C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Deb
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\irani\OneDrive\Documentos\Curso\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.AssemblyReference.cache
